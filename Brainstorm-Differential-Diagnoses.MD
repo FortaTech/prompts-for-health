@@ -1,4 +1,4 @@
-**Purpose:**   
+## **Purpose:**   
 The prompt generates potential differential diagnoses and diagnostic next steps from clinical notes.
 
 | **Attribute** | **Information**       |
@@ -19,6 +19,7 @@ Additionally, consider the implications of his social history and chronic condit
 
 Here is the patient's information:
 <clinical notes>
+```
 
 ## Sample Use (Source:BastionGPT):
 
