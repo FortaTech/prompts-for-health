@@ -61,7 +61,9 @@ Assessment/Plan:
 - Therapy: Continuation of CBT with current therapist, emphasis on developing coping mechanisms, exploring work-related stressors in greater depth, and addressing communication issues within relationship. 
 - Follow-up: Plan for check-in in 2 weeks to monitor anxiety levels, sleep, and decision on medication. Urged contact if symptoms worsen or if she has any safety concerns.
 - Provided crisis hotline number, encouraged to keep it accessible.
-**BastionGPT:** It appears that some essential information from the background list is missing in these clinical notes. Before proceeding with the recommendation of a framework of questions for the follow-up visit, I need to confirm the following details about the patient:
+
+### **BastionGPT:** 
+It appears that some essential information from the background list is missing in these clinical notes. Before proceeding with the recommendation of a framework of questions for the follow-up visit, I need to confirm the following details about the patient:
 
 Gender
 Age
