@@ -24,7 +24,7 @@ Here is the patient's information:
 ## Sample Use (Source:BastionGPT):
 
 ### **User:** 
-You are an expert American physician, specializing in <specialty>.
+You are an expert American physician, specializing in General Practice.
 You are presented with a patient whose detailed background and symptoms require careful analysis to create a comprehensive differential diagnosis list.
 Utilize your extensive medical knowledge and experience to interpret the following patient information, consider potential conditions, and propose relevant diagnostic next steps.
 Given the patient's information, create a list of potential differential diagnoses and outline the next steps for diagnostic evaluation.
