@@ -67,7 +67,14 @@ This project is licensed under the terms of the MIT license.
 
 
 ## Disclaimer
-The prompts within this repository have been screened to reduce the risk of harm and are intended for use by healthcare professionals. However, users must be aware of the risks that come with the use of Large Language Models (LLMs) like BastionGPT and ChatGPT. LLMs may occasionally provide inaccurate or inappropriate responses. All users must review the responses from LLMs for accuracy and appropriateness prior to use in any healthcare setting, such as entry into an electronic medical record or communication with a patient. 
+The prompts within this repository are illustrative use cases that have been screened to reduce the risk of harm and are intended for use by healthcare professionals. However, users must be aware of the risks that come with the use of Large Language Models (LLMs) like BastionGPT and ChatGPT. LLMs may occasionally provide inaccurate or inappropriate responses. All users must review the responses from LLMs for accuracy and appropriateness prior to use in any healthcare setting, such as entry into an electronic medical record or communication with a patient. 
+
+While these prompts provide value in various healthcare applications, users should be aware of several limitations and risks inherent to the AI:
+
+- **Hallucination:** BastionGPT, despite its sophisticated learning algorithms, can produce "hallucinated" responses—information that appears plausible but is incorrect or not based in reality. This can occur even when the input data is both accurate and unambiguous. In the healthcare environment, this could lead to misleading or inaccurate health information, which could pose serious risks if not properly understood and managed.
+- **Biases:** Despite extensive training and regular updates, BastionGPT can sometimes exhibit unintended biases. These biases are reflections of the biases present in the data it was trained on and not an intentional feature of the model. While we strive to minimize these, they may still occur and could potentially influence the model's responses.
+- **Outdated Information:** As of the AI model's informaiton cut-off, most AI does not have the capability to update its knowledge base with real-time information or developments. Consequently, any advancements, changes in guidelines, or novel treatments emerging in the healthcare industry post this date may not be reflected in the responses of AI.
+
 
 ## Support
 If you're experiencing any issues, have questions, or simply wish to connect with the core team, please feel free to open an issue in this repository or reach out to us at hello@forta.tech.
