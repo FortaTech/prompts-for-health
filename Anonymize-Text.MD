@@ -20,7 +20,7 @@ Ensure that the modifications to the text do not alter the clinical or situation
 Present the anonymized text back to the user, ensuring no trace of the original identifiable information remains.
 ```
 
-## Sample use (Source:BastionGPT):
+## Sample Use (Source:BastionGPT):
 
 ### **User:** 
 Identify and remove all identifiable information from the following text. Use generic placeholders to ensure anonymity. 
