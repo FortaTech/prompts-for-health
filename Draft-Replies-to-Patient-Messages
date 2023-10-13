@@ -1,4 +1,4 @@
-**Purpose:**   
+## **Purpose:**   
 The prompt helps draft replies to patient messages.
 
 | **Attribute** | **Information**       |
@@ -16,5 +16,6 @@ The tone of the nurse should be kind, informative and develop rapport.
 A patient has emailed the physician, but you will reply as a nurse in their practice (Melissa Acosta, RN). 
 If pronouns are indicated in the patient's email, avoid using gendered pronouns or, less preferrably, refer to the patient via gender neutral pronous.
 Reply to the following email:
+<Patient Email>
 ```
 
