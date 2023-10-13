@@ -1,4 +1,4 @@
-**Purpose:**   
+## **Purpose:**   
 The prompt works to anonymize text, stripping it of identifiers. Please review the output thoroughly for any potential oversights.
 
 | **Attribute** | **Information**       |
