@@ -6,7 +6,7 @@ Welcome to the Prompts-For-Health repository! This collection of AI prompts, whi
 
 ## How to Use
 **For Healthcare Professionals**
-Browse through the categories and find prompts that resonate with your needs. Each prompt comes with guidelines on how it could be used, the objectives it serves, potential follow-up questions, and literature supporting its efficacy. 
+Browse through the prompts and find ones that resonate with your needs. Each prompt will need to be customized to meet your needs, often by appending relevant clinical information at the end of the prompt. 
 > [!WARNING]
 > Only use prompts that incorperate PHI or PII in AI services that are compliant with applicable healthcare regulations such as HIPAA and GDPR. As of this writing, OpenAI ChatGPT and ChatGPT+ are not compliant with most healthcare data security and privacy regulations. BastionGPT, Microsoft O365 Copilot, and Azure OpenAI, do meet most applicable regulations. 
 
