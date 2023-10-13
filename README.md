@@ -1,26 +1,40 @@
 # Prompts-for-Health
 **Helpful prompts to transform the way healthcare professionals use generative AI such as ChatGPT and BastionGPT.**
 
-Welcome to the Prompts-For-Health repository! This collection of AI prompts, which are tasks and instructions that can be given to generative AI, is dedicated to providing healthcare professionals with an array of safe, innovative, and transformative conversation prompts. These prompts are designed to facilitate more efficient, empathetic, and constructive interactions with patients, helping to bridge communication gaps, unearth crucial health insights, and empower healthcare professionals to spend less time documenting and more time providing quality patient care.
+Welcome to the Prompts-For-Health repository! This collection of AI prompts, which are tasks and instructions that can be given to generative AI, is dedicated to providing healthcare professionals with an array of safe, innovative, and transformative conversation prompts. These prompts are designed to facilitate more efficient, empathetic, and constructive interactions with patients, helping to bridge communication gaps, unearth crucial health insights, and empower healthcare professionals to spend less time documenting and more time providing quality patient care. <br><br>
 
+## Index of Prompts
+[De-Identify Text](/Anonymize-Text.MD)
 
+[Brainstorm Differential Diagnoses](/Brainstorm-Differential-Diagnoses.MD)
+
+[Draft Replies to Patient Messages](/Draft-Replies-to-Patient-Messages.MD)
+
+[Explaining Health Concepts Across Cultures Age Education Levels](/Explaining-Health-Concepts-Across-Cultures-Age-Education-Levels.MD)
+
+[Generate a Framework of Questions for a Patient Visit](/Generate-Question-Framework-for-Patient-Followup.MD)
+
+[Generate SOAP Notes from Clinical Notes](/Generate-SOAP-Notes-from-Clinical-Notes.MD)
+
+[Generate SOAP Notes from a Transcript](/Generate-SOAP-Notes-from-Transcript.MD)
+<br><br>
 ## How to Use
 **For Healthcare Professionals**
 Browse through the prompts and find ones that resonate with your needs. Each prompt will need to be customized to meet your needs, often by appending relevant clinical information at the end of the prompt. 
 > [!WARNING]
-> Only use prompts that incorperate PHI or PII in AI services that are compliant with applicable healthcare regulations such as HIPAA and GDPR. As of this writing, OpenAI ChatGPT and ChatGPT+ are not compliant with most healthcare data security and privacy regulations. BastionGPT, Microsoft O365 Copilot, and Azure OpenAI, do meet most applicable regulations. 
+> Only use prompts that incorperate PHI or PII in AI services that are compliant with applicable healthcare regulations such as HIPAA and GDPR. As of this writing, OpenAI ChatGPT and ChatGPT+ are not compliant with most healthcare data security and privacy regulations. BastionGPT, Microsoft O365 Copilot, and Azure OpenAI, can meet applicable regulations in most circumstances. 
 
 **Contributions**
 We encourage healthcare professionals, AI enthusiasts, communication experts, and even patients with insights into effective communication to contribute to this repository. Before contributing a prompt, please check to see if a similar prompt already exists. If it does, we recommend enhancing the existing one with comments or revisions. You can contribute directly to the project via the instructions below, or you can reach out to FortaTech or another contributor.
 
 To contribute directly, follow these steps:
 
-- Fork the repository.
-- Create a new branch in your forked repository.
-- Add your prompt in the relevant category following the PROMPT_TEMPLATE.md format.
-- Submit a pull request against the main branch of the original Prompts-For-Health repository.
-- All submissions are reviewed by moderators before they're accepted and merged into the repository. This review includes a check for safety, appropriateness, clarity, and healthcare basis.
-
+1. Fork the repository.
+2. Create a new branch in your forked repository.
+3. Add your prompt name following the PROMPT_TEMPLATE.md format.
+4. Submit a pull request against the main branch of the original Prompts-For-Health repository.
+5. All submissions are reviewed by moderators before they're accepted and merged into the repository. This review includes a check for safety, appropriateness, clarity, and healthcare basis.
+<br><br>
 ## Safe and Responsible AI Principles
 As pioneers in healthcare technology, we recognize the crucial role we play in incorporating artificial intelligence into healthcare workflows. We firmly support and align to leading AI ethical and safety principles.
 
@@ -61,13 +75,11 @@ The incredible capabilities of generative AI can lead to a false sense of securi
 > “A medical professional must mediate the provision of medical advice or information from AI to patients.”
 
 The interface between AI and patients, especially in delivering medical advice or information, must be sufficiently supervised by medical professionals unless appropriate safeguards are robustly implemented. These safeguards can include strict governance around AI outputs, ongoing monitoring by healthcare professionals, and rigorous validation of medical accuracy. We must keep healthcare human-centric, with clinicians retaining control to ensure the safety, accuracy, and appropriateness of the advice provided.
-
-
-‍
+<br><br>
 ## License
-This project is licensed under the terms of the MIT license.
-
-
+This project is licensed under the terms of the MIT license.<br><br>
+  
+  
 ## Disclaimer
 The prompts within this repository are illustrative use cases that have been screened to reduce the risk of harm and are intended for use by healthcare professionals. However, users must be aware of the risks that come with the use of Large Language Models (LLMs) like BastionGPT and ChatGPT. LLMs may occasionally provide inaccurate or inappropriate responses. All users must review the responses from LLMs for accuracy and appropriateness prior to use in any healthcare setting, such as entry into an electronic medical record or communication with a patient. 
 
@@ -76,7 +88,7 @@ While these prompts provide value in various healthcare applications, users shou
 - **Hallucination:** BastionGPT, despite its sophisticated learning algorithms, can produce "hallucinated" responses—information that appears plausible but is incorrect or not based in reality. This can occur even when the input data is both accurate and unambiguous. In the healthcare environment, this could lead to misleading or inaccurate health information, which could pose serious risks if not properly understood and managed.
 - **Biases:** Despite extensive training and regular updates, BastionGPT can sometimes exhibit unintended biases. These biases are reflections of the biases present in the data it was trained on and not an intentional feature of the model. While we strive to minimize these, they may still occur and could potentially influence the model's responses.
 - **Outdated Information:** As of the AI model's informaiton cut-off, most AI does not have the capability to update its knowledge base with real-time information or developments. Consequently, any advancements, changes in guidelines, or novel treatments emerging in the healthcare industry post this date may not be reflected in the responses of AI.
-
-
+  <br><br>
+  
 ## Support
 If you're experiencing any issues, have questions, or simply wish to connect with the core team, please feel free to open an issue in this repository or reach out to us at hello@forta.tech.
