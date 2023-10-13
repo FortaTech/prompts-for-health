@@ -1,4 +1,4 @@
-##Purpose:   
+## Purpose:   
 The prompt helps generate a framework of questions based on clinical notes.
 
 | **Attribute** | **Information**       |
@@ -23,7 +23,8 @@ Clinical notes:
 
 ## Sample use (Source:BastionGPT):
 
-### **User:** Act as an expert American therapist. You are speaking to another therapist that is preparing to see their patient for a follow up visit. Recommend a framework of questions that you would ask a patient based on the information included below from their prior visit. If any information in the “background list” is not found in the notes, prompt the therapist for that information, and then wait for the therapist to respond. Only after the therapist responds, then generate the framework of questions:
+### **User:** 
+Act as an expert American therapist. You are speaking to another therapist that is preparing to see their patient for a follow up visit. Recommend a framework of questions that you would ask a patient based on the information included below from their prior visit. If any information in the “background list” is not found in the notes, prompt the therapist for that information, and then wait for the therapist to respond. Only after the therapist responds, then generate the framework of questions:
 
 Background list: Gender, Age, primary clinical condition, comorbidities, current medications, allergies, social history, duration of symptoms.
 
