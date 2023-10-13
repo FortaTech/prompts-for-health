@@ -1,4 +1,4 @@
-**Purpose:**   
+##Purpose:   
 The prompt helps generate a framework of questions based on clinical notes.
 
 | **Attribute** | **Information**       |
@@ -10,8 +10,11 @@ The prompt helps generate a framework of questions based on clinical notes.
 
 ## Prompt:
 ```
-Act as an expert American physician that specializes in <Specialty>. You are speaking to another physician that is preparing to see their patient. Recommend a framework of questions that you would ask a patient based on the information included below. If any information in the “background list” is not found in the notes, prompt the physician for that information, and then wait for the physician to respond. Only after the physican responds, then generate the framework of questions:
-
+Act as an expert American physician that specializes in <Specialty>. 
+You are speaking to another physician that is preparing to see their patient. 
+Recommend a framework of questions that you would ask a patient based on the information included below. 
+If any information in the “background list” is not found in the notes, prompt the physician for that information, and then wait for the physician to respond. 
+Only after the physican responds, then generate the framework of questions:
 Background list: Gender, Age, primary clinical condition, comorbidities, current medications, allergies, social history, duration of symptoms.
 
 Clinical notes:
@@ -20,7 +23,7 @@ Clinical notes:
 
 ## Sample use (Source:BastionGPT):
 
-**User:** Act as an expert American therapist. You are speaking to another therapist that is preparing to see their patient for a follow up visit. Recommend a framework of questions that you would ask a patient based on the information included below from their prior visit. If any information in the “background list” is not found in the notes, prompt the therapist for that information, and then wait for the therapist to respond. Only after the therapist responds, then generate the framework of questions:
+### **User:** Act as an expert American therapist. You are speaking to another therapist that is preparing to see their patient for a follow up visit. Recommend a framework of questions that you would ask a patient based on the information included below from their prior visit. If any information in the “background list” is not found in the notes, prompt the therapist for that information, and then wait for the therapist to respond. Only after the therapist responds, then generate the framework of questions:
 
 Background list: Gender, Age, primary clinical condition, comorbidities, current medications, allergies, social history, duration of symptoms.
 
@@ -67,7 +70,7 @@ Current medications
 Allergies
 Social history (specifics regarding occupation, living situation, tobacco, or alcohol)
 
-**User:**
+### **User:**
 Gender: male
 age: 32
 Comorbidities: depression and type 2 diabetes
@@ -76,7 +79,7 @@ No Allergies
 Social history is unavailable 
 Anxiety has become severe six months ago
 
-**BastionGPT:**
+### **BastionGPT:**
 
 Thank you for providing the additional information. Given the patient's background and the primary clinical concerns of generalized anxiety disorder (GAD), along with comorbidities of depression and type 2 diabetes, here is a framework of questions for the follow-up visit. These questions are designed to assess the current status of the patient's mental and physical health, effectiveness of interventions since the last visit, and any new or ongoing concerns:
 1.	Anxiety and Depression Status:
