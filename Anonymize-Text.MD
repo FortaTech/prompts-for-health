@@ -87,7 +87,7 @@ Discussion: The treatment plan, potential side effects, and follow-up were discu
 
 Identifiable information removed:
 
-Date of the note - [Date]
-Patient's name - [Patient Name]
-Patient's ID - [Patient ID]
-Patient's age - [Age]
+- Date of the note - [Date]
+- Patient's name - [Patient Name]
+- Patient's ID - [Patient ID]
+- Patient's age - [Age]
