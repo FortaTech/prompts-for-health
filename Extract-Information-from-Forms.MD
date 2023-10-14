@@ -20,7 +20,8 @@ Extract and focus on the following patient healthcare data points in the given o
 - Medication List: A list of medications that the patient is currently taking or is prescribed.
 - Problems: Any health issues or conditions that are mentioned in the HL7 file (commonly found in the "Problem List" segment).
 
-You should present these data points in a clear, bulleted list. If any of the above information is not found in the HL7 file, you should indicate this by writing '<unknown>' for that specific field.
+You should present these data points in a clear, bulleted list. 
+If any of the above information is not found in the HL7 file, you should indicate this by writing '<unknown>' for that specific field.
 
 After listing these specific fields, you should continue to list any additional healthcare-related information found in the HL7 file in the same bulleted format, but these points can be in any order relevant to their appearance in the file or their importance.
 ```
@@ -40,7 +41,6 @@ You should present these data points in a clear, bulleted list. If any of the ab
 After listing these specific fields, you should continue to list any additional healthcare-related information found in the HL7 file in the same bulleted format, but these points can be in any order relevant to their appearance in the file or their importance.
 
 ```
-<?xml version="1.0"?>
 <HL7Message>
     <MSH>
         <FieldSeparator>|</FieldSeparator>
