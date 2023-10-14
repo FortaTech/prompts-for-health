@@ -30,7 +30,7 @@ The options should consider the patient's financial constraints, prioritize safe
 The options should include precise locations or contact information when possible.
 If certain options are contingent upon the patient's income level, or if there are programs that offer sliding scale payments or financial assistance, these details should be included.
 
-### **AI Response** 
+### **AI Response:** 
 Sure, I can provide information on some low-cost or no-cost options for obtaining necessary blood test lab services in and around Northern Dallas, TX. Please note that the patient should contact these facilities directly to confirm their services, costs, and any income or eligibility requirements.
 
 **Los Barrios Unidos Community Clinic**  
