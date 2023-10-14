@@ -12,6 +12,8 @@ Welcome to the Prompts-For-Health repository! This collection of AI prompts, whi
 
 [Explaining Health Concepts Across Cultures Age Education Levels](/Explaining-Health-Concepts-Across-Cultures-Age-Education-Levels.MD)
 
+[Extract Information from Forms](/Extract-Information-from-Forms.MD)
+
 [Generate a Framework of Questions for a Patient Visit](/Generate-Question-Framework-for-Patient-Followup.MD)
 
 [Generate SOAP Notes from Clinical Notes](/Generate-SOAP-Notes-from-Clinical-Notes.MD)
