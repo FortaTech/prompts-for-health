@@ -45,21 +45,21 @@ Contact: (972) 707-7782
 Website: Agape Clinic  
 Services: They offer free and low-cost healthcare services, including lab tests. The clinic operates on a first-come, first-serve basis.  
 
-**Healing Hands Ministries**
-Location: 8515 Greenville Ave # N101, Dallas, TX 75243
-Contact: (214) 221-0855
-Website: Healing Hands Ministries
-Services: They offer low-cost healthcare services, including lab tests, to uninsured and underinsured individuals. They use a sliding fee scale based on income.
+**Healing Hands Ministries**  
+Location: 8515 Greenville Ave # N101, Dallas, TX 75243  
+Contact: (214) 221-0855  
+Website: Healing Hands Ministries  
+Services: They offer low-cost healthcare services, including lab tests, to uninsured and underinsured individuals. They use a sliding fee scale based on income.  
 
-**Watermark Urgent Care**
-Location: 9101 N Central Expy Suite 300, Dallas, TX 75231
-Contact: (214) 545-6155
-Website: Watermark Urgent Care
-Services: They offer free medical services, including lab tests, to uninsured individuals. They do not accept any form of insurance.
+**Watermark Urgent Care**  
+Location: 9101 N Central Expy Suite 300, Dallas, TX 75231  
+Contact: (214) 545-6155  
+Website: Watermark Urgent Care  
+Services: They offer free medical services, including lab tests, to uninsured individuals. They do not accept any form of insurance.  
 
-**Mission East Dallas**
-Location: 4550 Gus Thomasson Rd, Mesquite, TX 75150 (within 30 miles of Northern Dallas)
-Contact: (972) 682-8917
-Website: Mission East Dallas
+**Mission East Dallas**  
+Location: 4550 Gus Thomasson Rd, Mesquite, TX 75150 (within 30 miles of Northern Dallas)  
+Contact: (972) 682-8917  
+Website: Mission East Dallas  
 Services: They offer a sliding fee scale based on income and family size for uninsured patients. They provide a wide range of services including lab tests.
-Remember, it's always a good idea to call ahead and confirm the services, hours, and any documents or information you might need to bring.
+Remember, it's always a good idea to call ahead and confirm the services, hours, and any documents or information you might need to bring.  
