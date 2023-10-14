@@ -20,7 +20,7 @@ Welcome to the Prompts-For-Health repository! This collection of AI prompts, whi
 
 [Generate SOAP Notes from a Transcript](/Generate-SOAP-Notes-from-Transcript.MD)
 
-[Locate Healthcare Services](/locate-healthcare-services.MD)
+[Locate Healthcare Services](/Locate-Healthcare-Services.MD)
 
 <br><br>
 ## How to Use
