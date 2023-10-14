@@ -33,17 +33,17 @@ If certain options are contingent upon the patient's income level, or if there a
 ### **AI Response** 
 Sure, I can provide information on some low-cost or no-cost options for obtaining necessary blood test lab services in and around Northern Dallas, TX. Please note that the patient should contact these facilities directly to confirm their services, costs, and any income or eligibility requirements.
 
-**Los Barrios Unidos Community Clinic**
-Location: 809 Singleton Blvd, Dallas, TX 75212
-Contact: (214) 540-0300
-Website: Los Barrios Unidos
-Services: They offer a sliding fee scale based on income and family size for uninsured patients. They provide a wide range of services including lab tests.
+**Los Barrios Unidos Community Clinic**  
+Location: 809 Singleton Blvd, Dallas, TX 75212  
+Contact: (214) 540-0300  
+Website: Los Barrios Unidos  
+Services: They offer a sliding fee scale based on income and family size for uninsured patients. They provide a wide range of services including lab tests.  
 
-**Agape Clinic**
-Location: 4104 Junius St, Dallas, TX 75246
-Contact: (972) 707-7782
-Website: Agape Clinic
-Services: They offer free and low-cost healthcare services, including lab tests. The clinic operates on a first-come, first-serve basis.
+**Agape Clinic**  
+Location: 4104 Junius St, Dallas, TX 75246  
+Contact: (972) 707-7782  
+Website: Agape Clinic  
+Services: They offer free and low-cost healthcare services, including lab tests. The clinic operates on a first-come, first-serve basis.  
 
 **Healing Hands Ministries**
 Location: 8515 Greenville Ave # N101, Dallas, TX 75243
