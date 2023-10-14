@@ -1,5 +1,5 @@
 ## **Purpose:**   
-The prompt helps extract select information from forms in a consistent order, while displaying the remainder of the information below that. The prompt is for HL7 files, but it can be easily edited to include other file types or images.
+The prompt helps extract select information from forms in a consistent order, while displaying the remainder of the information below that. The prompt is for HL7 files, but it can be easily edited to include other file types or images. <br><br>
 
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
@@ -39,6 +39,7 @@ You should present these data points in a clear, bulleted list. If any of the ab
 
 After listing these specific fields, you should continue to list any additional healthcare-related information found in the HL7 file in the same bulleted format, but these points can be in any order relevant to their appearance in the file or their importance.
 
+```
 <?xml version="1.0"?>
 <HL7Message>
     <MSH>
@@ -207,6 +208,7 @@ After listing these specific fields, you should continue to list any additional 
         <ProcedureActionCode>AD</ProcedureActionCode>
     </PR1>
 </HL7Message>
+```
 
 ### **BastionGPT** 
 Based on the provided HL7 file, the following healthcare-related data points were extracted:
