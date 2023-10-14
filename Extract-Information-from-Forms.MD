@@ -210,7 +210,7 @@ After listing these specific fields, you should continue to list any additional 
 </HL7Message>
 ```
 
-### **BastionGPT** 
+### **AI Response** 
 Based on the provided HL7 file, the following healthcare-related data points were extracted:
 
 - Name: John Doe
