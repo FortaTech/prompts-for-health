@@ -20,7 +20,8 @@ Ensure that the modifications to the text do not alter the clinical or situation
 Present the anonymized text back to the user, ensuring no trace of the original identifiable information remains.
 ```
 
-## Sample Use (Source:BastionGPT):
+## Sample Use 
+### AI Used: BastionGPT
 
 ### **User:** 
 Identify and remove all identifiable information from the following text. Use generic placeholders to ensure anonymity. 
@@ -58,7 +59,7 @@ Will review the patch test results in 48 hours.
 Follow up appointment scheduled in two weeks to evaluate the response to treatment.
 Discussion: The treatment plan, potential side effects, and follow-up were discussed with the patient who verbalized understanding.
 
-### **BastionGPT:**
+### **AI Response:**
 Patient Encounter Note
 Date: [Date]
 Patient: [Patient Name]
