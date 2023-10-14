@@ -19,6 +19,9 @@ Welcome to the Prompts-For-Health repository! This collection of AI prompts, whi
 [Generate SOAP Notes from Clinical Notes](/Generate-SOAP-Notes-from-Clinical-Notes.MD)
 
 [Generate SOAP Notes from a Transcript](/Generate-SOAP-Notes-from-Transcript.MD)
+
+[Locate Healthcare Services](/locate-healthcare-services.MD)
+
 <br><br>
 ## How to Use
 **For Healthcare Professionals**
