@@ -1,5 +1,6 @@
 ## **Purpose:**   
-The prompt works to anonymize text, stripping it of identifiers. Please review the output thoroughly for any potential oversights.
+The prompt works to help anonymize text, stripping it of identifiers, including the 18 HIPAA identifiers.
+<br><br>
 
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
@@ -12,7 +13,7 @@ The prompt works to anonymize text, stripping it of identifiers. Please review t
 ```
 Identify and remove all identifiable information from the following text. Use generic placeholders to ensure anonymity. 
 Refer to a patient only as the "patient". 
-Identifiable information includes, but is not limited to, names, dates of birth, addresses, contact numbers, social security numbers, medical record numbers, and any unique identifiers. 
+Identifiable information includes, but is not limited to, names, dates of birth, geographic subdivisions smaller than a state (including street addresses), contact numbers, social security numbers, medical record numbers, telephone numbers, fax numbers, email addresses, health plan beneficiary numbers, account numbers, certificate/license numbers, and any unique identifiers. 
 The output will maintain the narrative context while ensuring patient confidentiality. 
 For each piece of identifiable information, categorize the type (e.g., name, address, phone number).
 Replace each piece of identifiable information with a generic but contextually appropriate placeholder. For example, real names can be replaced with "[Patient Name]" or specific addresses with "[Address]."
@@ -21,7 +22,7 @@ Present the anonymized text back to the user, ensuring no trace of the original 
 ```
 
 ## Sample Use 
-### AI Used: BastionGPT
+### _AI Used: BastionGPT_
 
 ### **User:** 
 Identify and remove all identifiable information from the following text. Use generic placeholders to ensure anonymity. 
