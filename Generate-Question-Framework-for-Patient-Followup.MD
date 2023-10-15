@@ -84,7 +84,7 @@ No Allergies
 Social history is unavailable 
 Anxiety has become severe six months ago
 
-### **BastionGPT:**
+### **AI Response:**
 
 Thank you for providing the additional information. Given the patient's background and the primary clinical concerns of generalized anxiety disorder (GAD), along with comorbidities of depression and type 2 diabetes, here is a framework of questions for the follow-up visit. These questions are designed to assess the current status of the patient's mental and physical health, effectiveness of interventions since the last visit, and any new or ongoing concerns:
 1.	Anxiety and Depression Status:
