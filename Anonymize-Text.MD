@@ -1,3 +1,4 @@
+| **Attribute** | **Information**       |
 |---------------------|-----------------------|
 | **Author** | Joshua Spencer |
 | **Target Models** | Azure OpenAI GPT-4, BastionGPT |
