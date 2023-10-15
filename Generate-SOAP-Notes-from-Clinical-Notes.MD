@@ -1,6 +1,4 @@
-# Generate SOAP Notes from Clinical Notes
-
-**Purpose:**   
+## **Purpose:**   
 The prompt generates detailed, individualized SOAP notes from clinical notes.
 
 | **Attribute** | **Information**       |
