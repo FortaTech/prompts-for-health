@@ -16,6 +16,8 @@ Welcome to the Prompts-For-Health repository! This is a collection of AI prompts
 
 [Generate a Framework of Questions for a Patient Visit](/Generate-Question-Framework-for-Patient-Followup.MD)
 
+[Generate Prior Authorization Letter](/Generate-Prior-Authorization-Letter.MD)
+
 [Generate SOAP Notes from Clinical Notes](/Generate-SOAP-Notes-from-Clinical-Notes.MD)
 
 [Generate SOAP Notes from a Transcript](/Generate-SOAP-Notes-from-Transcript.MD)
