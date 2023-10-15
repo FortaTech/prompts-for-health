@@ -19,7 +19,8 @@ The options should include precise locations or contact information when possibl
 If certain options are contingent upon the patient's income level, or if there are programs that offer sliding scale payments or financial assistance, these details should be included.
 ```
 
-## Sample Use (Source:BastionGPT):
+## Sample Use 
+### _AI Used: BastionGPT_
 
 ### **User:** 
 Act as a knowledgeable healthcare assistant.
