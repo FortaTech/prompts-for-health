@@ -21,7 +21,9 @@ Clinical notes:
 <clinical notes and visit objective go here>
 ```
 
-## Example Use (Model: BastionGPT):
+## Sample Use 
+### _AI Used: BastionGPT_
+
 
 ### **User:** 
 Act as an expert American therapist. You are speaking to another therapist that is preparing to see their patient for a follow up visit. Recommend a framework of questions that you would ask a patient based on the information included below from their prior visit. If any information in the “background list” is not found in the notes, prompt the therapist for that information, and then wait for the therapist to respond. Only after the therapist responds, then generate the framework of questions:
@@ -62,7 +64,7 @@ Assessment/Plan:
 - Follow-up: Plan for check-in in 2 weeks to monitor anxiety levels, sleep, and decision on medication. Urged contact if symptoms worsen or if she has any safety concerns.
 - Provided crisis hotline number, encouraged to keep it accessible.
 
-### **BastionGPT:** 
+### **AI Response:** 
 It appears that some essential information from the background list is missing in these clinical notes. Before proceeding with the recommendation of a framework of questions for the follow-up visit, I need to confirm the following details about the patient:
 
 Gender
