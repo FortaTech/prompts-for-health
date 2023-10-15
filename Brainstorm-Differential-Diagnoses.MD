@@ -1,6 +1,6 @@
 ## **Purpose:**   
 The prompt generates potential differential diagnoses and diagnostic next steps from clinical notes.
-
+<br>
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
 | **Author** | Joshua Spencer |
@@ -21,7 +21,8 @@ Here is the patient's information:
 <clinical notes>
 ```
 
-## Sample Use (Source:BastionGPT):
+## Sample Use 
+### _AI Used: BastionGPT_
 
 ### **User:** 
 You are an expert American physician, specializing in General Practice.
@@ -62,7 +63,7 @@ Extremities: No cyanosis, clubbing, or edema.
 Skin: No rashes, normal turgor.
 Neurological Examination: Non-focal, CN II-XII grossly intact.
 
-### **BastionGPT:**
+### **AI Response:**
 Differential Diagnoses:
 
 - Lung Cancer: Given the patient's significant smoking history, unexplained weight loss, persistent cough, and night sweats, lung cancer should be high on the differential. The presence of basal crackles could suggest a mass effect or post-obstructive pneumonia.
