@@ -1,7 +1,7 @@
 
 ## **Purpose:**   
 The prompt works to help anonymize text, stripping it of identifiers, including the 18 HIPAA identifiers.
-<br><br><br>
+<br><br>
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
 | **Author** | Joshua Spencer |
