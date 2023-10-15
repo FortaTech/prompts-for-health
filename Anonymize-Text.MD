@@ -1,12 +1,12 @@
+
+## **Purpose:**   
+The prompt works to help anonymize text, stripping it of identifiers, including the 18 HIPAA identifiers.
+<br><br><br>
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
 | **Author** | Joshua Spencer |
 | **Target Models** | Azure OpenAI GPT-4, BastionGPT |
 | **Requires PHI/PII** | *YES* |
-
-## **Purpose:**   
-The prompt works to help anonymize text, stripping it of identifiers, including the 18 HIPAA identifiers.
-<br><br>
 
 
 
