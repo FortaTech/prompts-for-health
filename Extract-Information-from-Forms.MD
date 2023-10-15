@@ -26,7 +26,9 @@ If any of the above information is not found in the HL7 file, you should indicat
 After listing these specific fields, you should continue to list any additional healthcare-related information found in the HL7 file in the same bulleted format, but these points can be in any order relevant to their appearance in the file or their importance.
 ```
 
-## Sample Use (Source:BastionGPT):
+## Sample Use 
+### _AI Used: BastionGPT_
+
 
 ### **User:** 
 Parse the text from the appended HL7 file. You should disregard all data that is not directly related to healthcare, such as billing and payment details, administrative data not related to patient care, etc.
