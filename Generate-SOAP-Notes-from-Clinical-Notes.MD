@@ -70,60 +70,64 @@ Will coordinate with primary care physician and current therapist for comprehens
 ### **AI Response:**
 SOAP Note:
 
-Subjective:
+**Subjective:**
 
-Patient is a female presenting with escalating anxiety symptoms over the past few weeks, described as feeling like being on a "roller coaster" with racing thoughts, especially in the evenings.
-Concerns: work performance, relationship stability.
-Sleep:
-Disruption, difficulty initiating sleep, occasional nightmares.
-Physical symptoms:
-Increased heart rate.
-Muscle tension, particularly in the neck and shoulders.
-Occasional trembling.
-Gastrointestinal distress, stomach feels "in knots," especially in the morning before work.
-Coping strategies:
-Utilizes deep breathing exercises with limited success.
-Work-related stress:
-Upcoming project deadlines.
-Difficult interpersonal dynamics, feels like "walking on eggshells."
-Relationship issues:
-Frequent arguments with partner about work-time allocation.
-Ruminating on past conflicts, difficulty in resolution.
-Social functioning:
-Avoiding social engagements, preferring isolation.
-Appetite:
-Decreased, poor palatability. Weight stable, hydration adequate.
-Mental health:
-No current suicidal ideation or self-harm. Denies substance abuse.
-Objective:
+- Patient is a female presenting with escalating anxiety symptoms over the past few weeks, described as feeling like being on a "roller coaster" with racing thoughts, especially in the evenings.
+  - Concerns: work performance, relationship stability.
+- Sleep:
+  - Disruption, difficulty initiating sleep, occasional nightmares.
+- Physical symptoms:
+  - Increased heart rate.
+  - Muscle tension, particularly in the neck and shoulders.
+  - Occasional trembling.
+  - Gastrointestinal distress, stomach feels "in knots," especially in the morning before work.
+- Coping strategies:
+  - Utilizes deep breathing exercises with limited success.
+- Work-related stress:
+  - Upcoming project deadlines.
+  - Difficult interpersonal dynamics, feels like "walking on eggshells."
+- Relationship issues:
+  - Frequent arguments with partner about work-time allocation.
+  - Ruminating on past conflicts, difficulty in resolution.
+- Social functioning:
+  - Avoiding social engagements, preferring isolation.
+- Appetite:
+  - Decreased, poor palatability. Weight stable, hydration adequate.
+- Mental health:
+  - No current suicidal ideation or self-harm. Denies substance abuse.
 
-Appearance: Disheveled, casual, slightly unkempt, age-appropriate.
-Behavior: Cooperative, restless, observable fidgeting.
-Speech: Within normal limits.
-Mood: Self-described as "anxious" and "tired."
-Affect: Congruent but with a restricted range.
-Thought Process: Linear, goal-directed, preoccupied with stress.
-Thought Content: No evidence of delusions, hallucinations, or paranoia.
-Cognition: Alert and oriented to person, place, and time; intact memory.
-Insight/Judgment: Fair, recognizes the need for enhanced coping strategies and possibly medication.
-Assessment:
+**Objective:**
 
-Generalized Anxiety Disorder (F41.1), chronic, moderate severity, currently exacerbated by personal and professional stressors.
-Insomnia due to anxiety (G47.01).
-Muscle tension secondary to anxiety.
-Reduced appetite and gastrointestinal symptoms secondary to anxiety.
-Plan:
+- Appearance: Disheveled, casual, slightly unkempt, age-appropriate.
+- Behavior: Cooperative, restless, observable fidgeting.
+- Speech: Within normal limits.
+- Mood: Self-described as "anxious" and "tired."
+- Affect: Congruent but with a restricted range.
+- Thought Process: Linear, goal-directed, preoccupied with stress.
+- Thought Content: No evidence of delusions, hallucinations, or paranoia.
+- Cognition: Alert and oriented to person, place, and time; intact memory.
+- Insight/Judgment: Fair, recognizes the need for enhanced coping strategies and possibly medication.
 
-Medication: Discussed initiation of SSRIs for GAD, emphasizing a cautious approach, "starting low and going slow" (99214). Provided patient education materials.
-Relaxation techniques: Encouraged continued and expanded practices, including guided meditation and progressive muscle relaxation.
-Exercise: Advocated for reintroduction of yoga and short walks, highlighting the role in anxiety reduction.
-Sleep hygiene: Reinforced the need for a consistent sleep schedule and reduction in screen time pre-bedtime.
-Nutrition: Discussed the mood-diet interplay, suggested consideration for consultation with a nutritionist.
-Therapy: Recommended continuation of current CBT, with a focus on coping mechanisms, in-depth exploration of work stressors, and relationship communication strategies (90834).
-Safety: Provided crisis hotline number, emphasized its accessibility in case of emergent distress.
-Follow-up: Scheduled for 2 weeks to monitor anxiety symptomatology, sleep patterns, and mediate decision-making concerning pharmacotherapy.
-Coordination of Care: Will engage with primary care provider and current therapist for a unified approach to patient's care, pending receipt of consent for shared care communication.
-Codes:
+**Assessment:**
 
-ICD-10: F41.1 (Generalized Anxiety Disorder), G47.01 (Insomnia)
-CPT: 99214 (Office/outpatient visit, established patient), 90834 (Psychotherapy, 45 minutes)
+- Generalized Anxiety Disorder (F41.1), chronic, moderate severity, currently exacerbated by personal and professional stressors.
+- Insomnia due to anxiety (G47.01).
+- Muscle tension secondary to anxiety.
+- Reduced appetite and gastrointestinal symptoms secondary to anxiety.
+
+**Plan:**
+
+- Medication: Discussed initiation of SSRIs for GAD, emphasizing a cautious approach, "starting low and going slow" (99214). Provided patient education materials.
+- Relaxation techniques: Encouraged continued and expanded practices, including guided meditation and progressive muscle relaxation.
+- Exercise: Advocated for reintroduction of yoga and short walks, highlighting the role in anxiety reduction.
+- Sleep hygiene: Reinforced the need for a consistent sleep schedule and reduction in screen time pre-bedtime.
+- Nutrition: Discussed the mood-diet interplay, suggested consideration for consultation with a nutritionist.
+- Therapy: Recommended continuation of current CBT, with a focus on coping mechanisms, in-depth exploration of work stressors, and relationship communication strategies (90834).
+- Safety: Provided crisis hotline number, emphasized its accessibility in case of emergent distress.
+- Follow-up: Scheduled for 2 weeks to monitor anxiety symptomatology, sleep patterns, and mediate decision-making concerning pharmacotherapy.
+- Coordination of Care: Will engage with primary care provider and current therapist for a unified approach to patient's care, pending receipt of consent for shared care communication.
+
+**Codes:**
+
+- ICD-10: F41.1 (Generalized Anxiety Disorder), G47.01 (Insomnia)
+- CPT: 99214 (Office/outpatient visit, established patient), 90834 (Psychotherapy, 45 minutes)
