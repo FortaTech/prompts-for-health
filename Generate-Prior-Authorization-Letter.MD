@@ -71,59 +71,63 @@ Brand/Model: GlucoTrack Model XYZ
 Duration: Long-term use  
 
 ### **AI Response:**
-San Diego Family Medicine Associates
-130 El Camino Way
-San Jose, CA, 95112
-Phone: 800-555-4375
-Email: smaxted@maxtedpractice.xyz
+**San Diego Family Medicine Associates**  
+**130 El Camino Way**  
+**San Jose, CA, 95112**  
+**Phone: 800-555-4375**  
+**Email: smaxted@maxtedpractice.xyz**  
 
 October 7, 2023
 
-GoodHealth Insurance
-Prior Authorization Department
-[Address Line 1]
-[Address Line 2]
+GoodHealth Insurance  
+Prior Authorization Department  
+[Address Line 1]  
+[Address Line 2]  
 [City, State, Zip]
 
-Re: Prior Authorization Request for John Doe (DOB: 02/15/1980)
-Policy Number: GH73849302
-Group Number: GH30012001
+Re: Prior Authorization Request for **John Doe** (DOB: 02/15/1980)  
+Policy Number: GH73849302  
+Group Number: GH30012001  
 
 Dear Prior Authorization Reviewer,
 
 I am writing to seek authorization for a Continuous Glucose Monitoring System (CGMS) for my patient, Mr. John Doe. The specifics of his current medical situation and the necessity of this device for his health and well-being are outlined below.
 
-Patient Profile:
+**Patient Profile**:
 
-Name: John Doe
-Date of Birth: 02/15/1980
-Address: 1234 Elm Street, Anytown, State, 12345
-Phone Number: (555) 123-4567
-Primary Care Physician: Dr. Amy Smith, MD
-Medical History:
+- **Name**: John Doe  
+- **Date of Birth**: 02/15/1980  
+- **Address**: 1234 Elm Street, Anytown, State, 12345  
+- **Phone Number**: (555) 123-4567  
+- **Primary Care Physician**: Dr. Amy Smith, MD
 
-Diagnoses:
-Hypertension (ICD-10: I10)
-Type 2 Diabetes Mellitus (ICD-10: E11.9)
-Allergies: Penicillin
-Current Medications: Metformin 500mg, twice daily; Lisinopril 10mg, once daily
-Surgical History: Appendectomy (2005)
-Family History: Father - Type 2 Diabetes, Mother - Hypertension, Sister - No known conditions
-Recent Medical Need:
+**Medical History**:
 
-Date of Visit: 09/14/2023
-Visiting Specialist: Dr. Jane Wilson, Endocrinologist
-Reason for Visit: Poorly controlled Type 2 Diabetes Mellitus
+- **Diagnoses**:
+  - Hypertension (ICD-10: I10)
+  - Type 2 Diabetes Mellitus (ICD-10: E11.9)
+- **Allergies**: Penicillin
+- **Current Medications**: Metformin 500mg, twice daily; Lisinopril 10mg, once daily
+- **Surgical History**: Appendectomy (2005)
+- **Family History**: Father - Type 2 Diabetes, Mother - Hypertension, Sister - No known conditions
+
+**Recent Medical Need**:
+
+- **Date of Visit**: 09/14/2023
+- **Visiting Specialist**: Dr. Jane Wilson, Endocrinologist
+- **Reason for Visit**: Poorly controlled Type 2 Diabetes Mellitus
+
 Rationale for CGMS Recommendation:
 
 Mr. Doe's recent HbA1c level was 9.3%, and his Fasting Blood Glucose was 190 mg/dL. He has been compliant with medications and follows a recommended diabetic-friendly diet. Despite these efforts, he has struggled with glycemic control. Furthermore, there have been frequent episodes of unrecognized hypoglycemia. Dr. Jane Wilson recommended the initiation of a CGMS device to monitor these fluctuations more accurately and adjust the treatment plan in real-time.
 
-Requested Prior Authorization:
+**Requested Prior Authorization**:
 
-Device/Service: Continuous Glucose Monitoring System (CGMS)
-Brand/Model: GlucoTrack Model XYZ
-Duration: Long-term use
-Considering the above, I strongly believe that the Continuous Glucose Monitoring System (CGMS) is a medical necessity for Mr. Doe. Regular fingerstick monitoring is not capturing the full scope of his glucose irregularities, and the CGMS will offer continuous insight into his glucose levels, leading to more informed treatment decisions.
+- **Device/Service**: Continuous Glucose Monitoring System (CGMS)
+- **Brand/Model**: **GlucoTrack Model XYZ**
+- **Duration**: Long-term use
+
+Considering the above, I strongly believe that the Continuous Glucose Monitoring System (CGMS) is a medical necessity for Mr. Doe. Regular fingerstick monitoring is not capturing the full scope of his glucose irregularities, and the CGMS will offer continuous insight into his glucose levels, leading to more informed treatment decisions. 
 
 I kindly request the prompt approval of this device to help Mr. Doe achieve optimal diabetes management, reduce the risk of severe hypoglycemia, and potentially decrease the likelihood of long-term diabetic complications.
 
@@ -133,9 +137,9 @@ Thank you for your prompt attention to this matter. Your cooperation in this wil
 
 Sincerely,
 
-Dr. Spencer Maxted
-General Practitioner
-San Diego Family Medicine Associates
+Dr. Spencer Maxted  
+General Practitioner  
+San Diego Family Medicine Associates  
 
 [Attachments: Patient Medical Records, Dr. Jane Wilson's Recommendation Letter]
 
