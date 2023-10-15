@@ -17,6 +17,7 @@ The parent has immigrated from the Philipines, has completed a high school educa
 The parent is skeptical of Western medicine.
 The second summary should be in a format that the parent's child could understand.
 The child is eight years old and has completed first grade.
+```
 
 ## Sample Use 
 ### _AI Used: BastionGPT_
