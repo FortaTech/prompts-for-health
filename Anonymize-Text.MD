@@ -7,7 +7,7 @@ The prompt works to help anonymize text, stripping it of identifiers, including 
 | **Author** | Joshua Spencer |
 | **Target Models** | Azure OpenAI GPT-4, BastionGPT |
 | **Requires PHI/PII** | *YES* |
-
+<br>
 
 ## Prompt:
 ```
@@ -20,7 +20,7 @@ Replace each piece of identifiable information with a generic but contextually a
 Ensure that the modifications to the text do not alter the clinical or situational context so the narrative's medical integrity is maintained.
 Present the anonymized text back to the user, ensuring no trace of the original identifiable information remains.
 ```
-<br>
+
 
 ## Sample Use 
 ### _AI Used: BastionGPT_
