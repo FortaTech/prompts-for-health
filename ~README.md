@@ -8,6 +8,8 @@ Welcome to the Prompts-For-Health repository! This is a collection of AI prompts
 
 [Brainstorm Differential Diagnoses](/Brainstorm-Differential-Diagnoses.MD)
 
+[Determine a Patient's Eligibility for a Clinical Trial](/Determine-Patient-Eligibility-Clinical-Trial.MD)
+
 [Discharge Summary from Notes](/Discharge-Summary-from-Notes.MD)
 
 [Draft Replies to Patient Messages](/Draft-Replies-to-Patient-Messages.MD)
