@@ -8,6 +8,8 @@ Welcome to the Prompts-For-Health repository! This is a collection of AI prompts
 
 [Brainstorm Differential Diagnoses](/Brainstorm-Differential-Diagnoses.MD)
 
+[Discharge Summary from Notes](/Discharge-Summary-from-Notes.MD)
+
 [Draft Replies to Patient Messages](/Draft-Replies-to-Patient-Messages.MD)
 
 [Explaining Health Concepts Across Cultures Age Education Levels](/Explaining-Health-Concepts-Across-Cultures-Age-Education-Levels.MD)
@@ -18,9 +20,9 @@ Welcome to the Prompts-For-Health repository! This is a collection of AI prompts
 
 [Generate Prior Authorization Letter](/Generate-Prior-Authorization-Letter.MD)
 
-[Generate SOAP Notes from Clinical Notes](/Generate-SOAP-Notes-from-Clinical-Notes.MD)
+[Generate SOAP Notes from Clinical Notes](/SOAP-Notes-from-Clinical-Notes.MD)
 
-[Generate SOAP Notes from a Transcript](/Generate-SOAP-Notes-from-Transcript.MD)
+[Generate SOAP Notes from a Transcript](/SOAP-Notes-from-Transcript.MD)
 
 [Locate Healthcare Services](/Locate-Healthcare-Services.MD)
 
