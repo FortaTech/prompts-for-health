@@ -1,7 +1,7 @@
 # Prompts-for-Health
 **Helpful prompts to transform the way healthcare professionals use conversational generative AI.**
 
-Welcome to the Prompts-For-Health repository! This is a collection of AI prompts, which are tasks and instructions that can be given to generative AI, such as ChatGPT and BastionGPT. It is dedicated to providing healthcare professionals with an array of safe, innovative, and transformative conversation prompts. These prompts are designed to facilitate more efficient, empathetic, and constructive interactions with patients, helping to bridge communication gaps, unearth crucial health insights, and empower healthcare professionals to spend less time documenting and more time providing quality patient care. Each prompt page contains a description, the prompt itself, and an example showing how it works in practice.<br><br>
+Welcome to the Prompts-For-Health repository! This is a collection of AI prompts, which are tasks and instructions that can be given to generative AI that use Large Language Models (LLMs), such as ChatGPT and BastionGPT. It is dedicated to providing healthcare professionals with an array of safe, innovative, and transformative conversation prompts. These prompts are designed to facilitate more efficient, empathetic, and constructive interactions with patients, helping to bridge communication gaps, unearth crucial health insights, and empower healthcare professionals to spend less time documenting and more time providing quality patient care. Each prompt page contains a description, the prompt itself, and an example showing how it works in practice.<br><br>
 
 ## Index of Prompts
 [De-Identify Text](/Anonymize-Text.MD)
