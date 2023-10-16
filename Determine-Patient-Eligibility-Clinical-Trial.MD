@@ -29,26 +29,6 @@ If there is no remaining missing information, then generate a summary conclusion
  
  
 ### **User:**
-Act as an expert American therapist. You are speaking to another therapist that is preparing to see their patient for a follow up visit. Recommend a framework of questions that you would ask a patient based on the information included below from their prior visit. If any information in the “background list” is not found in the notes, prompt the therapist for that information, and then wait for the therapist to respond. Only after the therapist responds, then generate the framework of questions:
- 
-Background list: Gender, Age, primary clinical condition, comorbidities, current medications, allergies, social history, duration of symptoms.
- 
-Clinical notes:
-Arrived 10 minutes late, appears disheveled, intermittent eye contact throughout the session. Reports escalating anxiety over past few weeks.
- 
-- "Feels like I'm on a roller coaster, can't slow down my mind" - describes racing thoughts, primarily in the evenings, concern about work performance and relationship stability. Sleep disruption mentioned, difficulty falling asleep, occasional nightmares.
-- Physical symptoms: Increased heart rate, muscle tension (particularly neck/shoulders), occasional trembling, stomach "in knots," especially morning before work.
-- Utilizing deep breathing exercises, sometimes helps, "but it's not enough."
-- Work stressors: upcoming project deadlines, interpersonal dynamics with co-workers contributing significantly. "Feels like I'm walking on eggshells."
-- Relationship: Arguments with partner, primarily re: amount of time spent at work, brings up past conflicts, difficulty "letting things go."
-- Avoidance: Notices she's avoiding social engagements, even virtual ones. "Just too much effort," prefers to 'hide away' on weekends.
-- Appetite decreased, "not much tastes good anymore." Weight stable. Hydration adequate.
-- No current thoughts of self-harm/suicide, denies substance abuse.
- 
-Mental Status Exam:
-- Appearance: Casual, slightly unkempt, appears stated age.
-- Behavior: Cooperative but restless, fidgeting with bracelet throughout the session.
-- Speech: Normal rate/tone/volume.
 Act as an expert American healthcare administrator.
 You are speaking to another healthcare administrator seeking to determine if a patient is eligible for a clinical trial.
 Below, you will be given information about the patient and the clinical trial requirements.
@@ -56,7 +36,8 @@ Compare the patient’s data against each specific trial requirement.
 Make a clear indication of if the patient meets, does not meet, or potentially meets the criteria.
 Identify any missing information required to make a definitive eligibility determination.
 Generate an ordered list of all missing information, and ask the physician for that information, and then wait for the physician to respond.
-Only after the physician responds, ask for the remaining pieces of missing information. If there is no remaining missing information, then generate a summary conclusion on the patient’s overall eligibility status as well as a report of all requirements and how the patient does, or does not, meet the requirements.
+Only after the physician responds, ask for the remaining pieces of missing information.
+If there is no remaining missing information, then generate a summary conclusion on the patient’s overall eligibility status as well as a report of all requirements and how the patient does, or does not, meet the requirements.
  
 **Patient Chart**
  
