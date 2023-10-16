@@ -117,8 +117,8 @@ If there is no remaining missing information, then generate a summary conclusion
  
 **Next Appointment:**
 - Surgical consult on 11/20/2023
- 
-Inclusion Criteria
+ <br><br>
+**Inclusion Criteria**
 - Patient must be >= 18 years of age
 - Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
 - Patient must have histologically confirmed HER2-positive primary invasive breast carcinoma, determined by local testing. The tumor must have either HER2 immunohistochemistry (IHC) result of 3+ or HER2/CEP17 ratio >= 2 with >= 4.0 HER2 signals per cell by in situ hybridization (ISH). Tumors with HER2/CEP17 ISH ratio < 2 are ineligible, even if HER2 copy number is > 6, unless HER2 IHC result is 3+
@@ -229,9 +229,7 @@ Based on the patient’s provided information and the inclusion criteria for the
 2. Confirmation of the patient's willingness and ability to receive standard adjuvant therapy.
 3. Information on the patient's decision-making capacity.
 4. History of any prior (ipsilateral or contralateral) invasive breast cancer.
-5. Any prior treatment for the current breast cancer (if
- 
-already started).
+5. Any prior treatment for the current breast cancer (if already started).
 6. Disease-free history for other non-breast malignancies (if applicable).
 7. Left ventricular ejection fraction (LVEF).
 8. Presence of > grade 1 peripheral neuropathy.
@@ -249,25 +247,24 @@ already started).
 While the patient meets several of the eligibility criteria based on the available information, there are numerous gaps in the data that prevent a full assessment. These missing details are critical to determining the patient’s eligibility for the clinical trial. It is important to gather this information before proceeding with the application for the trial.
  
 ### **User:**
-ECOG performance status: Level 1 - Slightly restricted physical activity.
-Confirmation of the patient's willingness: Agreed after consulting with family.
-Decision-making capacity: Fully competent, assessed last week.
-History of invasive breast cancer: One contralateral event, 8 years ago.
-Prior treatment for current cancer: Underwent initial round of chemotherapy.
-Disease-free history for other malignancies: Previous skin cancer, resolved.
-LVEF: 55% - within normal range.
-grade 1 peripheral neuropathy: Not present upon examination.
- 
-Baseline axilla imaging: Conducted, no significant findings.
-Concurrent serious medical conditions: Controlled type 2 diabetes.
-Pregnancy or breastfeeding: Not pregnant, not breastfeeding.
-Contraception methods: Using oral contraceptives.
-Willingness to sign consent: Willing, after reviewing documents.
-Absolute neutrophil count: 3.2 x 10^9/L - within acceptable limits.
-Institutional ULN: Bilirubin - 1.2, AST/ALT - 25/40, Creatinine - 1.1.
-HIV status: Negative, not applicable.
-HBV viral load: Undetectable, on antiviral therapy.
-HCV treatment: Completed, cured status confirmed.
+- ECOG performance status: Level 1 - Slightly restricted physical activity.
+- Confirmation of the patient's willingness: Agreed after consulting with family.
+- Decision-making capacity: Fully competent, assessed last week.
+- History of invasive breast cancer: One contralateral event, 8 years ago.
+- Prior treatment for current cancer: Underwent initial round of chemotherapy.
+- Disease-free history for other malignancies: Previous skin cancer, resolved.
+- LVEF: 55% - within normal range.
+- grade 1 peripheral neuropathy: Not present upon examination. 
+- Baseline axilla imaging: Conducted, no significant findings.
+- Concurrent serious medical conditions: Controlled type 2 diabetes.
+- Pregnancy or breastfeeding: Not pregnant, not breastfeeding.
+- Contraception methods: Using oral contraceptives.
+- Willingness to sign consent: Willing, after reviewing documents.
+- Absolute neutrophil count: 3.2 x 10^9/L - within acceptable limits.
+- Institutional ULN: Bilirubin - 1.2, AST/ALT - 25/40, Creatinine - 1.1.
+- HIV status: Negative, not applicable.
+- HBV viral load: Undetectable, on antiviral therapy.
+- HCV treatment: Completed, cured status confirmed.
  
 ### **AI Response:**
  
