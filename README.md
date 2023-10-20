@@ -33,7 +33,7 @@ Welcome to the Prompts-For-Health repository! This is a collection of AI prompts
 **For Healthcare Professionals**  
 Browse through the prompts and find ones that resonate with your needs. Each prompt will need to be customized to meet your needs, often by appending relevant clinical information at the end of the prompt. 
 > [!WARNING]
-> Only use prompts that incorperate PHI or PII in AI services that are compliant with applicable healthcare regulations such as HIPAA and GDPR. As of this writing, OpenAI ChatGPT and ChatGPT+ are not compliant with most healthcare data security and privacy regulations. BastionGPT, Microsoft O365 Copilot, and Azure OpenAI, can meet applicable regulations in most circumstances. 
+> Only use prompts that incorporate PHI or PII in AI services that are compliant with applicable healthcare regulations such as HIPAA and GDPR. As of this writing, OpenAI ChatGPT and ChatGPT+ are not compliant with most healthcare data security and privacy regulations. BastionGPT, Microsoft O365 Copilot, and Azure OpenAI, can meet applicable regulations in most circumstances. 
 
 **Contributions**  
 We encourage healthcare professionals, AI enthusiasts, communication experts, and even patients with insights into effective communication to contribute to this repository. Before contributing a prompt, please check to see if a similar prompt already exists. If it does, we recommend enhancing the existing one with comments or revisions. You can contribute directly to the project via the instructions below, or you can reach out to FortaTech or another contributor.
@@ -92,14 +92,14 @@ This project is licensed under the terms of the MIT license.<br><br>
   
   
 ## Disclaimer
-The prompts within this repository are illustrative use cases that have been screened to reduce the risk of harm and are intended for use by healthcare professionals. However, users must be aware of the risks that come with the use of Large Language Models (LLMs) like BastionGPT and ChatGPT. LLMs may occasionally provide inaccurate or inappropriate responses. All users must review the responses from LLMs for accuracy and appropriateness prior to use in any healthcare setting, such as entry into an electronic medical record or communication with a patient. 
+The prompts within this repository are illustrative use cases that have been screened to reduce the risk of harm and are intended for use by healthcare professionals. However, users must be aware of the risks that come with the use of Large Language Models (LLMs). LLMs may occasionally provide inaccurate or inappropriate responses. All users must review the responses from LLMs for accuracy and appropriateness prior to use in any healthcare setting, such as entry into an electronic medical record or communication with a patient. 
 
 > [!WARNING]
 > While these prompts provide value in various healthcare applications, users should be aware of limitations and risks inherent to the AI
 
 - **Hallucination:** Generative AI, despite its sophisticated learning algorithms, can produce "hallucinated" responses—information that appears plausible but is incorrect or not based in reality. This can occur even when the input data is both accurate and unambiguous. In the healthcare environment, this could lead to misleading or inaccurate health information, which could pose serious risks if not properly understood and managed.
 - **Biases:** Despite extensive training and regular updates, Generative AI can sometimes exhibit unintended biases. These biases are reflections of the biases present in the data it was trained on and not an intentional feature of the model. While we strive to minimize these, they may still occur and could potentially influence the model's responses.
-- **Outdated Information:** As of the AI model's informaiton cut-off, most AI does not have the capability to update its knowledge base with real-time information or developments. Consequently, any advancements, changes in guidelines, or novel treatments emerging in the healthcare industry post this date may not be reflected in the responses of AI.
+- **Outdated Information:** As of the AI model's information cut-off, most AI does not have the capability to update its knowledge base with real-time information or developments. Consequently, any advancements, changes in guidelines, or novel treatments emerging in the healthcare industry post this date may not be reflected in the responses of AI.
   <br><br>
   
 ## Support
